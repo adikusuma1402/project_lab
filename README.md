@@ -1,8 +1,8 @@
 ## project_lab
-Anggota Tim :
+Penyusun:
  - Adi Kusuma
 
 Progres pengerjaan project : 
 
 ## introduction
-project ini....
+Dalam project ini akan..... dari data susenas 2012/2013, variable yang akan dipakai dalam project ini....
